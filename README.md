@@ -1,6 +1,3 @@
-asdffs
-
-FT4
 Plataforma voto electrónico educativa
 =====================================
 
